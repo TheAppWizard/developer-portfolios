@@ -407,6 +407,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Carlo Camara](https://jiseeeh.codes)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [Jonas Werner](https://jonaswerner.com)
+- [Jorge Varela](https://jotaaloud.github.io/portfolio/)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
